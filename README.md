@@ -256,22 +256,33 @@
   《高性能Linux服务器构建实战》
 
 - 《Redis实战 》
+
   《Redis开发与运维》
+  
   《Redis设计与实现》
 
 - 《Kafka入门与实践》
+
   《Kafka技术内幕》
 
 - 《可伸缩服务架构：框架与中间件》
+
   《Spring Cloud与Docker微服务架构实战》
+  
   《架构修炼之道》
 
 - 《NoSQL精粹》
+
   《ZooKeeper：分布式过程协同技术详解》
+  
   《从Paxos到Zookeeper分布式一致性原理与实践》
 
 - 《奔跑吧Ansible》
+
   《Docker——容器与容器云》
+  
   《Kubernetes权威指南》
+  
   《Jenkins权威指南》
+  
   《深入理解Nginx》
